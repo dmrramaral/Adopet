@@ -1,0 +1,37 @@
+header {
+    position: absolute;
+    width: 304.14px;
+    height: 30.86px;
+    left: 48px;
+    top: 63px;
+}
+
+.navbar {}
+
+.imagensTop {
+    position: absolute;
+    width: 352.11px;
+    height: 295px;
+    left: -0.5px;
+    top: 0px;
+}
+
+.vector1 {
+    position: absolute;
+    width: 333.25px;
+    height: 273.52px;
+    left: 0.02px;
+    top: 0px;
+}
+
+.vector4 {
+    position: absolute;
+    width: 352.11px;
+    height: 295px;
+    left: -0.5px;
+    top: 0px;
+}
+
+.mensagem {
+    margin-left: 58.61px;
+}
