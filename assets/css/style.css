@@ -26,7 +26,7 @@ header {
 }
 
 .vector1 {
-    position: absolute;
+    position: fixed;
     width: 333.25px;
     height: 273.52px;
     left: 0.02px;
@@ -34,7 +34,7 @@ header {
 }
 
 .vector4 {
-    position: absolute;
+    position: fixed;
     width: 352.11px;
     height: 295px;
     left: -0.5px;
