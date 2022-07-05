@@ -7,15 +7,12 @@
 }
 
 header {
-    display: flex;
-    position: absolute;
+    position: fixed;
     width: 304.14px;
     height: 30.86px;
     left: 48px;
     top: 63px;
 }
-
-.navbar {}
 
 .imagensTop {
     position: absolute;
@@ -39,8 +36,4 @@ header {
     height: 295px;
     left: -0.5px;
     top: 0px;
-}
-
-.mensagem {
-    margin-left: 58.61px;
 }
