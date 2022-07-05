@@ -1,4 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0
+}
+
 header {
+    display: flex;
     position: absolute;
     width: 304.14px;
     height: 30.86px;
